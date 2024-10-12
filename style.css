@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .main{
-    background-image: url(images/mainhead.avif);
+    background-image: url(mainhead.avif);
     display: flex;
     height: 70vh;
     width: 100%;
@@ -72,7 +72,7 @@
 .cn2{
     height: 30vh;
     width: 40vw;
-    background-image: url(images/cn2img.avif);
+    background-image: url(cn2img.avif);
     border-radius: 20px;
     margin-top: 25px;
 
@@ -80,7 +80,7 @@
 .cn3{
     height: 30vh;
     width: 40vw;
-    background-image: url(images/5caf6356031573ba682513a8.png);
+    background-image: url(5caf6356031573ba682513a8.png);
     object-fit: fill;
 
     border-radius: 20px;
