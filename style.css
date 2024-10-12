@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    background-image: url(images/mainhead.avif);
+    display: flex;
+    height: 70vh;
+    width: 100%;
+}
+.nav{
+    height: 8vh;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 22px;
+    color: white;
+
+}
+.heading1{
+    height: 10vh;
+    width: 30%;
+    color: white;
+}
+.heading1 img{
+    position: absolute;
+    left: 230px;
+    width: 300px;
+}
+.cn1{
+    position: absolute;
+    top: 86px;
+    left: 300px;
+    text-align: center;
+    z-index: 10;
+
+}
+.heading2{
+    text-align: center;
+   
+    font-size: 45px;
+    margin-top: 30px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.mgl{
+    margin-left: 30px;
+}
+
+.getapp{
+    position: absolute;
+
+    left: 290px;
+}
+.navitem{
+    position: absolute;
+    left: 700px;
+}
+.cityname{
+    font-weight: bold;
+}
+.main2{
+    height: 40vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.cn2{
+    height: 30vh;
+    width: 40vw;
+    background-image: url(images/cn2img.avif);
+    border-radius: 20px;
+    margin-top: 25px;
+
+}
+.cn3{
+    height: 30vh;
+    width: 40vw;
+    background-image: url(images/5caf6356031573ba682513a8.png);
+    object-fit: fill;
+
+    border-radius: 20px;
+    margin-top: 25px;
+}
+
+.hcn2{
+margin-top: 150px;
+height: 10vh;
+background-color: white;
+font-size: 40px;
+color: black;
+padding-left: 10px;
+
+}
+.h1cn2{
+    color: gray;
+    font-size: 20px;
+    padding-left: 10px;
+}
